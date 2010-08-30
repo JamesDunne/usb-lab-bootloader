@@ -1,0 +1,754 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADDRESS_STATE::5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	62;"	d	line:62
+ADR	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	123;"	m	line:123	struct:_BDT::<anonymous>
+ADRH	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	117;"	m	line:117	struct:_BDT::<anonymous>
+ADRL	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	116;"	m	line:116	struct:_BDT::<anonymous>
+ADR_PENDING_STATE::4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	61;"	d	line:61
+ATTACHED_STATE::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	58;"	d	line:58
+Address	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	184;"	m	line:184	file:
+Address1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	196;"	m	line:196	file:
+Address2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	199;"	m	line:199	file:
+Address3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	202;"	m	line:202	file:
+Address4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	205;"	m	line:205	file:
+Address5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	208;"	m	line:208	file:
+Address6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	211;"	m	line:211	file:
+BC8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	84;"	m	line:84	struct:_BD_STAT::<anonymous>
+BC8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	94;"	m	line:94	struct:_BD_STAT::<anonymous>
+BC9	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	85;"	m	line:85	struct:_BD_STAT::<anonymous>
+BC9	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	95;"	m	line:95	struct:_BD_STAT::<anonymous>
+BDT	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	125;"	t	line:125
+BD_STAT	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	108;"	t	line:108
+BOOL	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	150;"	t	line:150
+BOOTPIC18NONJ_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.h	41;"	d	line:41
+BOOT_INTF_SUBCLASS::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	66;"	d	line:66
+BOOT_PROTOCOL::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	58;"	d	line:58
+BSTALL	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	86;"	m	line:86	struct:_BD_STAT::<anonymous>
+BYTE	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	58;"	t	line:58
+BlinkUSBStatus	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	239;"	p	line:239	file:	signature:(void)
+BlinkUSBStatus	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	186;"	p	line:186	file:	signature:(void)
+BlinkUSBStatus	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	364;"	f	line:364	signature:(void)
+BlinkUSBStatus::	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	188;"	d	line:188	file:
+BootState	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	226;"	v	line:226
+BufferSize::0x40	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	168;"	d	line:168	file:
+BufferedDataIndex	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	228;"	v	line:228
+Byte0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	103;"	m	line:103	struct:_DWORD::<anonymous>
+Byte0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	70;"	m	line:70	struct:_WORD::<anonymous>
+Byte1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	104;"	m	line:104	struct:_DWORD::<anonymous>
+Byte1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	71;"	m	line:71	struct:_WORD::<anonymous>
+Byte2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	105;"	m	line:105	struct:_DWORD::<anonymous>
+Byte3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	106;"	m	line:106	struct:_DWORD::<anonymous>
+BytesPerAddress	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	194;"	m	line:194	file:
+BytesPerAddressPIC18::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	162;"	d	line:162	file:
+BytesTakenFromBuffer	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	498;"	l	line:498	file:
+CARD_DETECT::PORTBbits.RB4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	110;"	d	line:110
+CFG01::romstruct	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.h	59;"	d	line:59
+CLASS::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	79;"	d	line:79
+CLR_FEATURE::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	49;"	d	line:49
+CONFIGURED_STATE::6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	63;"	d	line:63
+CTRL_TRF_DATA	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	207;"	t	line:207
+CTRL_TRF_RX::2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	48;"	d	line:48
+CTRL_TRF_SETUP	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	166;"	t	line:166
+CTRL_TRF_TX::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	47;"	d	line:47
+ClassReqHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	283;"	v	line:283
+ClearArray	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	722;"	f	line:722	signature:(byte* startAdr,byte count)
+ClearArray	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	211;"	p	line:211	signature:(byte* startAdr,byte count)
+Cnt	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	115;"	m	line:115	struct:_BDT::<anonymous>
+Command	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	183;"	m	line:183	file:
+Command	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	192;"	m	line:192	file:
+Command	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	217;"	m	line:217	file:
+ConfigWordsSectionLength::14	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	102;"	d	line:102	file:
+ConfigWordsSectionLength::14	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	112;"	d	line:112	file:
+ConfigWordsSectionLength::14	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	124;"	d	line:124	file:
+ConfigWordsSectionLength::14	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	53;"	d	line:53	file:
+ConfigWordsSectionLength::14	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	65;"	d	line:65	file:
+ConfigWordsSectionLength::14	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	77;"	d	line:77	file:
+ConfigWordsSectionLength::14	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	89;"	d	line:89	file:
+ConfigWordsStartAddress::0x300000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	101;"	d	line:101	file:
+ConfigWordsStartAddress::0x300000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	111;"	d	line:111	file:
+ConfigWordsStartAddress::0x300000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	123;"	d	line:123	file:
+ConfigWordsStartAddress::0x300000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	52;"	d	line:52	file:
+ConfigWordsStartAddress::0x300000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	64;"	d	line:64	file:
+ConfigWordsStartAddress::0x300000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	76;"	d	line:76	file:
+ConfigWordsStartAddress::0x300000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	88;"	d	line:88	file:
+ConfigsLockValue	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	230;"	v	line:230
+Contents	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	179;"	m	line:179	file:
+CorrectionFactor	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	499;"	l	line:499	file:
+CtrlTrfData	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	273;"	v	line:273
+DEFAULT_STATE::3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	60;"	d	line:60
+DETACHED_STATE::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	57;"	d	line:57
+DEVICE_REMOTE_WAKEUP::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	61;"	d	line:61
+DEVICE_WITH_EEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	115;"	d	line:115	file:
+DEVICE_WITH_EEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	127;"	d	line:127	file:
+DEVICE_WITH_EEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	56;"	d	line:56	file:
+DEVICE_WITH_EEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	68;"	d	line:68	file:
+DEVICE_WITH_EEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	80;"	d	line:80	file:
+DEVICE_WITH_EEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	92;"	d	line:92	file:
+DEV_TO_HOST::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	76;"	d	line:76
+DSC_CFG::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	50;"	d	line:50
+DSC_DEV::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	49;"	d	line:49
+DSC_EP::0x05	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	53;"	d	line:53
+DSC_HID::0x21	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	53;"	d	line:53
+DSC_INTF::0x04	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	52;"	d	line:52
+DSC_PHY::0x23	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	55;"	d	line:55
+DSC_RPT::0x22	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	54;"	d	line:54
+DSC_STR::0x03	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	51;"	d	line:51
+DTS	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	90;"	m	line:90	struct:_BD_STAT::<anonymous>
+DTSEN	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	87;"	m	line:87	struct:_BD_STAT::<anonymous>
+DWORD	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	117;"	t	line:117
+Data	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	187;"	m	line:187	file:
+DataDir	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	88;"	m	line:88	struct:_CTRL_TRF_SETUP::<anonymous>
+EEPROMEffectiveAddress::0xF00000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	117;"	d	line:117	file:
+EEPROMEffectiveAddress::0xF00000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	129;"	d	line:129	file:
+EEPROMEffectiveAddress::0xF00000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	58;"	d	line:58	file:
+EEPROMEffectiveAddress::0xF00000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	70;"	d	line:70	file:
+EEPROMEffectiveAddress::0xF00000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	82;"	d	line:82	file:
+EEPROMEffectiveAddress::0xF00000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	94;"	d	line:94	file:
+EEPROMSize::0x100	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	116;"	d	line:116	file:
+EEPROMSize::0x100	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	128;"	d	line:128	file:
+EEPROMSize::0x100	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	57;"	d	line:57	file:
+EEPROMSize::0x100	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	69;"	d	line:69	file:
+EEPROMSize::0x100	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	81;"	d	line:81	file:
+EEPROMSize::0x100	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	93;"	d	line:93	file:
+ENDPOINT_HALT::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	62;"	d	line:62
+EP00_IN::((0x00<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	83;"	d	line:83
+EP00_OUT::((0x00<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	82;"	d	line:82
+EP01_IN::((0x01<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	85;"	d	line:85
+EP01_OUT::((0x01<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	84;"	d	line:84
+EP02_IN::((0x02<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	87;"	d	line:87
+EP02_OUT::((0x02<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	86;"	d	line:86
+EP03_IN::((0x03<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	89;"	d	line:89
+EP03_OUT::((0x03<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	88;"	d	line:88
+EP04_IN::((0x04<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	91;"	d	line:91
+EP04_OUT::((0x04<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	90;"	d	line:90
+EP05_IN::((0x05<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	93;"	d	line:93
+EP05_OUT::((0x05<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	92;"	d	line:92
+EP06_IN::((0x06<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	95;"	d	line:95
+EP06_OUT::((0x06<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	94;"	d	line:94
+EP07_IN::((0x07<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	97;"	d	line:97
+EP07_OUT::((0x07<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	96;"	d	line:96
+EP08_IN::((0x08<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	99;"	d	line:99
+EP08_OUT::((0x08<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	98;"	d	line:98
+EP09_IN::((0x09<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	101;"	d	line:101
+EP09_OUT::((0x09<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	100;"	d	line:100
+EP0_BUFF_SIZE::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	39;"	d	line:39
+EP10_IN::((0x0A<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	103;"	d	line:103
+EP10_OUT::((0x0A<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	102;"	d	line:102
+EP11_IN::((0x0B<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	105;"	d	line:105
+EP11_OUT::((0x0B<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	104;"	d	line:104
+EP12_IN::((0x0C<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	107;"	d	line:107
+EP12_OUT::((0x0C<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	106;"	d	line:106
+EP13_IN::((0x0D<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	109;"	d	line:109
+EP13_OUT::((0x0D<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	108;"	d	line:108
+EP14_IN::((0x0E<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	111;"	d	line:111
+EP14_OUT::((0x0E<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	110;"	d	line:110
+EP15_IN::((0x0F<<3)|(IN<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	113;"	d	line:113
+EP15_OUT::((0x0F<<3)|(OUT<<2))	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	112;"	d	line:112
+EPDir	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	159;"	m	line:159	struct:_CTRL_TRF_SETUP::<anonymous>
+EPNum	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	157;"	m	line:157	struct:_CTRL_TRF_SETUP::<anonymous>
+EP_CTRL::0x06	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	60;"	d	line:60
+EP_IN::0x0A	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	62;"	d	line:62
+EP_OUT::0x0C	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	61;"	d	line:61
+EP_OUT_IN::0x0E	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	63;"	d	line:63
+ERASE_DEVICE::0x04	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	137;"	d	line:137	file:
+ErasePageTracker	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	227;"	v	line:227
+ExtraPadBytes	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	213;"	m	line:213	file:
+FAIL::FALSE	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	153;"	d	line:153
+FALSE	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	150;"	e	line:150	enum:_BOOL
+GET_CFG::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	54;"	d	line:54
+GET_DATA::0x07	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	140;"	d	line:140	file:
+GET_DSC::6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	52;"	d	line:52
+GET_IDLE::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	46;"	d	line:46
+GET_INTF::10	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	56;"	d	line:56
+GET_PROTOCOL::0x03	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	47;"	d	line:47
+GET_REPORT::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	45;"	d	line:45
+GET_STATUS::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	48;"	d	line:48
+HIDGetReportHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	138;"	f	line:138	signature:(void)
+HIDGetReportHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	51;"	p	line:51	file:	signature:(void)
+HIDInitEP	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	170;"	f	line:170	signature:(void)
+HIDInitEP	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	151;"	p	line:151	signature:(void)
+HIDRxReport	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	281;"	f	line:281	signature:(char *buffer, byte len)
+HIDRxReport	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	154;"	p	line:154	signature:(char *buffer, byte len)
+HIDSetReportHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	143;"	f	line:143	signature:(void)
+HIDSetReportHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	52;"	p	line:52	file:	signature:(void)
+HIDTxReport	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	226;"	f	line:226	signature:(char *buffer, byte len)
+HIDTxReport	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	153;"	p	line:153	signature:(char *buffer, byte len)
+HID_BD_IN::ep1Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	101;"	d	line:101
+HID_BD_OUT::ep1Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	99;"	d	line:99
+HID_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	37;"	d	line:37
+HID_INTF::0x03	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	63;"	d	line:63
+HID_INTF_ID::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	97;"	d	line:97
+HID_INT_IN_EP_SIZE::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	102;"	d	line:102
+HID_INT_OUT_EP_SIZE::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	100;"	d	line:100
+HID_NUM_OF_DSC::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	103;"	d	line:103
+HID_PROTOCOL_KEYBOAD::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	70;"	d	line:70
+HID_PROTOCOL_MOUSE::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	71;"	d	line:71
+HID_PROTOCOL_NONE::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	69;"	d	line:69
+HID_RPT01_SIZE::29	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	104;"	d	line:104
+HID_UEP::UEP1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	98;"	d	line:98
+HOST_TO_DEV::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	75;"	d	line:75
+HSHK_EN::0x10	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	64;"	d	line:64
+HighB	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	76;"	m	line:76	struct:_WORD::<anonymous>
+IN::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	77;"	d	line:77
+INCDIS	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	88;"	m	line:88	struct:_BD_STAT::<anonymous>
+INPUT_PIN::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	47;"	d	line:47
+IN_TOKEN::0b00001001	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	72;"	d	line:72
+IO_CFG_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	41;"	d	line:41
+Idle::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	155;"	d	line:155	file:
+InitializeSystem	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	183;"	p	line:183	file:	signature:(void)
+InitializeSystem	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	274;"	f	line:274	file:	signature:(void)
+InvalidAddress::0xFFFFFFFF	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	159;"	d	line:159	file:
+KEN	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	89;"	m	line:89	struct:_BD_STAT::<anonymous>
+LOCKCONFIG::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	145;"	d	line:145	file:
+LOWER_LSB::(a)((a).v[0])	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	118;"	d	line:118
+LOWER_MSB::(a)((a).v[1])	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	119;"	d	line:119
+LOW_PIN_COUNT_USB_DEVELOPMENT_KIT	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	53;"	d	line:53
+LSB::(a)((a).v[0])	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	83;"	d	line:83
+Length1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	197;"	m	line:197	file:
+Length2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	200;"	m	line:200	file:
+Length3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	203;"	m	line:203	file:
+Length4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	206;"	m	line:206	file:
+Length5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	209;"	m	line:209	file:
+Length6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	212;"	m	line:212	file:
+LockValue	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	218;"	m	line:218	file:
+LowB	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	75;"	m	line:75	struct:_WORD::<anonymous>
+MAX_EP_NUMBER::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	125;"	d	line:125
+MAX_NUM_INT::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	38;"	d	line:38
+MODE_PP::_PPBM0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	44;"	d	line:44
+MSB::(a)((a).v[1])	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	84;"	d	line:84
+MUID_CDC::3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	89;"	d	line:89
+MUID_HID::2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	88;"	d	line:88
+MUID_NULL::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	86;"	d	line:86
+MUID_USB9::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	87;"	d	line:87
+MaxPageToErase::127	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	121;"	d	line:121	file:
+MaxPageToErase::255	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	109;"	d	line:109	file:
+MaxPageToErase::255	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	99;"	d	line:99	file:
+MaxPageToErase::383	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	74;"	d	line:74	file:
+MaxPageToErase::383	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	86;"	d	line:86	file:
+MaxPageToErase::511	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	50;"	d	line:50	file:
+MaxPageToErase::511	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	62;"	d	line:62	file:
+NotIdle::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	156;"	d	line:156	file:
+OK::TRUE	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	152;"	d	line:152
+OUT::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	76;"	d	line:76
+OUTPUT_PIN::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	48;"	d	line:48
+OUT_TOKEN::0b00000001	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	71;"	d	line:71
+PIC18F4550_PICDEM_FS_USB	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	50;"	d	line:50
+PIC_EP_DIR_MASK::0b00000100	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	80;"	d	line:80
+PIC_EP_NUM_MASK::0b01111000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	79;"	d	line:79
+PID	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	105;"	m	line:105	struct:_BD_STAT::<anonymous>
+PID0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	96;"	m	line:96	struct:_BD_STAT::<anonymous>
+PID1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	97;"	m	line:97	struct:_BD_STAT::<anonymous>
+PID2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	98;"	m	line:98	struct:_BD_STAT::<anonymous>
+PID3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	99;"	m	line:99	struct:_BD_STAT::<anonymous>
+POINTER	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	148;"	t	line:148
+POWERED_STATE::2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	59;"	d	line:59
+PROGRAM_COMPLETE::0x06	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	139;"	d	line:139	file:
+PROGRAM_DEVICE::0x05	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	138;"	d	line:138	file:
+PacketDataFieldSize	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	193;"	m	line:193	file:
+PacketFromPC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	234;"	v	line:234
+PacketToFromPC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	220;"	t	line:220	file:
+PacketToPC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	236;"	v	line:236
+ProcessIO	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	278;"	f	line:278	signature:(void)
+ProcessIO	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.h	45;"	p	line:45	signature:(void)
+ProgramBlockSize::0x10	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	105;"	d	line:105	file:
+ProgramBlockSize::0x10	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	118;"	d	line:118	file:
+ProgramBlockSize::0x20	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	59;"	d	line:59	file:
+ProgramBlockSize::0x20	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	71;"	d	line:71	file:
+ProgramBlockSize::0x20	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	83;"	d	line:83	file:
+ProgramBlockSize::0x20	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	95;"	d	line:95	file:
+ProgramBlockSize::0x8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	130;"	d	line:130	file:
+ProgramMemStart::0x001000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	46;"	d	line:46	file:
+ProgramMemStop::0x002000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	122;"	d	line:122	file:
+ProgramMemStop::0x004000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	100;"	d	line:100	file:
+ProgramMemStop::0x004000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	110;"	d	line:110	file:
+ProgramMemStop::0x006000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	75;"	d	line:75	file:
+ProgramMemStop::0x006000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	87;"	d	line:87	file:
+ProgramMemStop::0x008000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	51;"	d	line:51	file:
+ProgramMemStop::0x008000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	63;"	d	line:63	file:
+ProgramMemStopAddress	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	225;"	v	line:225
+ProgrammedPointer	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	229;"	v	line:229
+ProgrammingBuffer	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	231;"	v	line:231
+QUERY_DEVICE::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	135;"	d	line:135	file:
+RCPT_DEV::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	82;"	d	line:82
+RCPT_EP::2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	84;"	d	line:84
+RCPT_INTF::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	83;"	d	line:83
+RCPT_OTH::3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	85;"	d	line:85
+RESET_DEVICE::0x08	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	141;"	d	line:141	file:
+RPT_PROTOCOL::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	59;"	d	line:59
+Recipient	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	86;"	m	line:86	struct:_CTRL_TRF_SETUP::<anonymous>
+RemoteWakeup	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	75;"	m	line:75	struct:_USB_DEVICE_STATUS::<anonymous>
+RequestDataBlockSize::0x3A	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	166;"	d	line:166	file:
+RequestType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	87;"	m	line:87	struct:_CTRL_TRF_SETUP::<anonymous>
+SETUP_TOKEN::0b00001101	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	70;"	d	line:70
+SET_ADR::5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	51;"	d	line:51
+SET_CFG::9	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	55;"	d	line:55
+SET_DSC::7	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	53;"	d	line:53
+SET_FEATURE::3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	50;"	d	line:50
+SET_IDLE::0x0A	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	49;"	d	line:49
+SET_INTF::11	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	57;"	d	line:57
+SET_PROTOCOL::0x0B	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	50;"	d	line:50
+SET_REPORT::0x09	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	48;"	d	line:48
+SHORT_PKT_NOT_USED::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	65;"	d	line:65
+SHORT_PKT_PENDING::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	66;"	d	line:66
+SHORT_PKT_SENT::2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	67;"	d	line:67
+STANDARD::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	78;"	d	line:78
+SYNCH_FRAME::12	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	58;"	d	line:58
+SetupPkt	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	272;"	v	line:272
+Size	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	185;"	m	line:185	file:
+StartPageToErase::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	108;"	d	line:108	file:
+StartPageToErase::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	120;"	d	line:120	file:
+StartPageToErase::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	49;"	d	line:49	file:
+StartPageToErase::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	61;"	d	line:61	file:
+StartPageToErase::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	73;"	d	line:73	file:
+StartPageToErase::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	85;"	d	line:85	file:
+StartPageToErase::64	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	98;"	d	line:98	file:
+Stat	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	114;"	m	line:114	struct:_BDT::<anonymous>
+TRIS_CARD_DETECT::TRISBbits.TRISB4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	109;"	d	line:109
+TRIS_WRITE_DETECT::TRISAbits.TRISA4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	112;"	d	line:112
+TRUE	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	150;"	e	line:150	enum:_BOOL
+TYPEDEFS_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	38;"	d	line:38
+TotalPacketSize::0x40	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	164;"	d	line:164	file:
+Type1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	195;"	m	line:195	file:
+Type2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	198;"	m	line:198	file:
+Type3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	201;"	m	line:201	file:
+Type4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	204;"	m	line:204	file:
+Type5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	207;"	m	line:207	file:
+Type6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	210;"	m	line:210	file:
+TypeConfigWords::0x03	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	150;"	d	line:150	file:
+TypeEEPROM::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	149;"	d	line:149	file:
+TypeEndOfTypeList::0xFF	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	151;"	d	line:151	file:
+TypeProgramMemory::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	148;"	d	line:148	file:
+UCFG_VAL::_PUEN|_TRINT|_FS|MODE_PP	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	45;"	d	line:45
+UNLOCKCONFIG::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	144;"	d	line:144	file:
+UNLOCK_CONFIG::0x03	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	136;"	d	line:136	file:
+UOWN	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	101;"	m	line:101	struct:_BD_STAT::<anonymous>
+UOWN	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	91;"	m	line:91	struct:_BD_STAT::<anonymous>
+UPPER_LSB::(a)((a).v[2])	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	120;"	d	line:120
+UPPER_MSB::(a)((a).v[3])	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	121;"	d	line:121
+USB9_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	37;"	d	line:37
+USBCFG_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	35;"	d	line:35
+USBCTRLTRF_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	38;"	d	line:38
+USBCheckBusStatus	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	84;"	f	line:84	signature:(void)
+USBCheckBusStatus	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	206;"	p	line:206	signature:(void)
+USBCheckHIDRequest	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	74;"	f	line:74	signature:(void)
+USBCheckHIDRequest	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	152;"	p	line:152	signature:(void)
+USBCheckStdRequest	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	71;"	f	line:71	signature:(void)
+USBCheckStdRequest	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	92;"	p	line:92	signature:(void)
+USBCtrlEPService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	101;"	f	line:101	signature:(void)
+USBCtrlEPService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	95;"	p	line:95	signature:(void)
+USBCtrlEPServiceComplete	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	516;"	f	line:516	signature:(void)
+USBCtrlEPServiceComplete	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	98;"	p	line:98	signature:(void)
+USBCtrlTrfInHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	306;"	f	line:306	signature:(void)
+USBCtrlTrfInHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	74;"	p	line:74	file:	signature:(void)
+USBCtrlTrfOutHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	251;"	f	line:251	signature:(void)
+USBCtrlTrfOutHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	73;"	p	line:73	file:	signature:(void)
+USBCtrlTrfRxService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	464;"	f	line:464	signature:(void)
+USBCtrlTrfRxService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	97;"	p	line:97	signature:(void)
+USBCtrlTrfSetupHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	189;"	f	line:189	signature:(void)
+USBCtrlTrfSetupHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	72;"	p	line:72	file:	signature:(void)
+USBCtrlTrfTxService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	369;"	f	line:369	signature:(void)
+USBCtrlTrfTxService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	96;"	p	line:96	signature:(void)
+USBDEFS_EP0_BUFF_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	41;"	d	line:41
+USBDEFS_STD_DSC_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	41;"	d	line:41
+USBDRV_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	39;"	d	line:39
+USBDSC_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.h	40;"	d	line:40
+USBDriverService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	227;"	f	line:227	signature:(void)
+USBDriverService	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	207;"	p	line:207	signature:(void)
+USBErrorHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	64;"	p	line:64	file:	signature:(void)
+USBMMAP_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	38;"	d	line:38
+USBModuleDisable	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	56;"	p	line:56	file:	signature:(void)
+USBModuleEnable	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	147;"	f	line:147	signature:(void)
+USBModuleEnable	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	55;"	p	line:55	file:	signature:(void)
+USBPrepareForNextSetupTrf	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	631;"	f	line:631	signature:(void)
+USBPrepareForNextSetupTrf	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	99;"	p	line:99	signature:(void)
+USBProtocolResetHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	61;"	p	line:61	file:	signature:(void)
+USBProtocolResetHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	677;"	f	line:677	signature:(void)
+USBRemoteWakeup	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	208;"	p	line:208	signature:(void)
+USBSoftDetach	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	209;"	p	line:209	signature:(void)
+USBStallHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	567;"	f	line:567	signature:(void)
+USBStallHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	63;"	p	line:63	file:	signature:(void)
+USBStdFeatureReqHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	284;"	f	line:284	signature:(void)
+USBStdFeatureReqHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	51;"	p	line:51	file:	signature:(void)
+USBStdGetDscHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	137;"	f	line:137	signature:(void)
+USBStdGetDscHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	48;"	p	line:48	file:	signature:(void)
+USBStdGetStatusHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	219;"	f	line:219	signature:(void)
+USBStdGetStatusHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	50;"	p	line:50	file:	signature:(void)
+USBStdSetCfgHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	181;"	f	line:181	signature:(void)
+USBStdSetCfgHandler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.c	49;"	p	line:49	file:	signature:(void)
+USBSuspend	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	334;"	f	line:334	signature:(void)
+USBSuspend	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	58;"	p	line:58	file:	signature:(void)
+USBTasks	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	184;"	p	line:184	file:	signature:(void)
+USBTasks	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	334;"	f	line:334	signature:(void)
+USBWakeFromSuspend	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	400;"	f	line:400	signature:(void)
+USBWakeFromSuspend	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	59;"	p	line:59	file:	signature:(void)
+USB_BUS_ATTACHED::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	90;"	d	line:90	file:
+USB_BUS_DETACHED::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	91;"	d	line:91	file:
+USB_CD_Ptr	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	271;"	v	line:271
+USB_CFG_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	139;"	t	line:139
+USB_DEVICE_STATUS	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	78;"	t	line:78
+USB_DEV_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	129;"	t	line:129
+USB_EP_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	158;"	t	line:158
+USB_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb.h	37;"	d	line:37
+USB_HID_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	145;"	t	line:145
+USB_HID_DSC_HEADER	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	135;"	t	line:135
+USB_INTF_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	149;"	t	line:149
+USB_SD_Ptr	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	276;"	v	line:276
+USB_SOF_Handler	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	62;"	p	line:62	file:	signature:(void)
+USB_USE_HID	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	79;"	d	line:79
+UnlockAndActivate	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	244;"	p	line:244	file:	signature:(void)
+UnlockAndActivate	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	609;"	f	line:609	signature:(void)
+UserIDAddress::0x200000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	103;"	d	line:103	file:
+UserIDAddress::0x200000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	113;"	d	line:113	file:
+UserIDAddress::0x200000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	125;"	d	line:125	file:
+UserIDAddress::0x200000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	54;"	d	line:54	file:
+UserIDAddress::0x200000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	66;"	d	line:66	file:
+UserIDAddress::0x200000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	78;"	d	line:78	file:
+UserIDAddress::0x200000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	90;"	d	line:90	file:
+UserIDSize::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	104;"	d	line:104	file:
+UserIDSize::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	114;"	d	line:114	file:
+UserIDSize::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	126;"	d	line:126	file:
+UserIDSize::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	55;"	d	line:55	file:
+UserIDSize::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	67;"	d	line:67	file:
+UserIDSize::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	79;"	d	line:79	file:
+UserIDSize::8	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	91;"	d	line:91	file:
+UserInit	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	240;"	p	line:240	file:	signature:(void)
+UserInit	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	250;"	f	line:250	signature:(void)
+UserInit	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.h	44;"	p	line:44	signature:(void)
+VENDOR::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	80;"	d	line:80
+WAIT_SETUP::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.h	46;"	d	line:46
+WORD	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	82;"	t	line:82
+WORDSIZE::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	165;"	d	line:165	file:
+WRITE_DETECT::PORTAbits.RA4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	113;"	d	line:113
+W_Index	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	81;"	m	line:81	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Length	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	82;"	m	line:82	struct:_CTRL_TRF_SETUP::<anonymous>
+W_Value	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	80;"	m	line:80	struct:_CTRL_TRF_SETUP::<anonymous>
+Word0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	110;"	m	line:110	struct:_DWORD::<anonymous>
+Word1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	111;"	m	line:111	struct:_DWORD::<anonymous>
+WriteConfigBits	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	242;"	p	line:242	file:	signature:(void)
+WriteConfigBits	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	570;"	f	line:570	signature:(void)
+WriteEEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	243;"	p	line:243	file:	signature:(void)
+WriteEEPROM	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	593;"	f	line:593	signature:(void)
+WriteFlashBlock	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	241;"	p	line:241	file:	signature:(void)
+WriteFlashBlock	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	495;"	f	line:495	signature:(void)
+_AD::0x02<<2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	108;"	d	line:108
+_AS::0x01<<2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	107;"	d	line:107
+_BDT	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	110;"	u	line:110
+_BD_STAT	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	80;"	u	line:80
+_BOOL	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	150;"	g	line:150
+_BSTALL::0x04	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	46;"	d	line:46
+_BULK::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	102;"	d	line:102
+_BYTE	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	44;"	u	line:44
+_CTRL::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	100;"	d	line:100
+_CTRL_TRF_DATA	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	179;"	u	line:179
+_CTRL_TRF_SETUP	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	59;"	u	line:59
+_DAT0::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	50;"	d	line:50
+_DAT1::0x40	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	51;"	d	line:51
+_DE::0x00<<4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	112;"	d	line:112
+_DEFAULT::0x01<<7	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	95;"	d	line:95
+_DTSEN::0x08	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	47;"	d	line:47
+_DTSMASK::0x40	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	52;"	d	line:52
+_DWORD	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	86;"	u	line:86
+_EP01_IN::0x81	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	64;"	d	line:64
+_EP01_OUT::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	63;"	d	line:63
+_EP02_IN::0x82	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	66;"	d	line:66
+_EP02_OUT::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	65;"	d	line:65
+_EP03_IN::0x83	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	68;"	d	line:68
+_EP03_OUT::0x03	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	67;"	d	line:67
+_EP04_IN::0x84	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	70;"	d	line:70
+_EP04_OUT::0x04	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	69;"	d	line:69
+_EP05_IN::0x85	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	72;"	d	line:72
+_EP05_OUT::0x05	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	71;"	d	line:71
+_EP06_IN::0x86	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	74;"	d	line:74
+_EP06_OUT::0x06	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	73;"	d	line:73
+_EP07_IN::0x87	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	76;"	d	line:76
+_EP07_OUT::0x07	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	75;"	d	line:75
+_EP08_IN::0x88	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	78;"	d	line:78
+_EP08_OUT::0x08	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	77;"	d	line:77
+_EP09_IN::0x89	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	80;"	d	line:80
+_EP09_OUT::0x09	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	79;"	d	line:79
+_EP10_IN::0x8A	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	82;"	d	line:82
+_EP10_OUT::0x0A	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	81;"	d	line:81
+_EP11_IN::0x8B	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	84;"	d	line:84
+_EP11_OUT::0x0B	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	83;"	d	line:83
+_EP12_IN::0x8C	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	86;"	d	line:86
+_EP12_OUT::0x0C	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	85;"	d	line:85
+_EP13_IN::0x8D	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	88;"	d	line:88
+_EP13_OUT::0x0D	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	87;"	d	line:87
+_EP14_IN::0x8E	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	90;"	d	line:90
+_EP14_OUT::0x0E	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	89;"	d	line:89
+_EP15_IN::0x8F	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	92;"	d	line:92
+_EP15_OUT::0x0F	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	91;"	d	line:91
+_FE::0x01<<4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	113;"	d	line:113
+_FS::0x04	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	52;"	d	line:52
+_IE::0x02<<4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	114;"	d	line:114
+_INCDIS::0x10	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	48;"	d	line:48
+_INT::0x03	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	103;"	d	line:103
+_ISO::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	101;"	d	line:101
+_KEN::0x20	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	49;"	d	line:49
+_LS::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	51;"	d	line:51
+_NS::0x00<<2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	106;"	d	line:106
+_OEMON::0x40	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	56;"	d	line:56
+_POINTER	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	125;"	u	line:125
+_PPBM0::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	48;"	d	line:48
+_PPBM1::0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	49;"	d	line:49
+_PPBM2::0x02	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	50;"	d	line:50
+_PUEN::0x10	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	55;"	d	line:55
+_RAM::0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	66;"	d	line:66
+_ROM::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	67;"	d	line:67
+_RWU::0x01<<5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	97;"	d	line:97
+_SELF::0x01<<6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	96;"	d	line:96
+_SY::0x03<<2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	109;"	d	line:109
+_TREXT::0x08	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	54;"	d	line:54
+_TRINT::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	53;"	d	line:53
+_UCPU::0x00	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	54;"	d	line:54
+_USB_CFG_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	134;"	s	line:134
+_USB_DEVICE_STATUS	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	70;"	u	line:70
+_USB_DEV_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	122;"	s	line:122
+_USB_EP_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	154;"	s	line:154
+_USB_HID_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	137;"	s	line:137
+_USB_HID_DSC_HEADER	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	131;"	s	line:131
+_USB_INTF_DSC	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	144;"	s	line:144
+_USIE::0x80	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	53;"	d	line:53
+_UTEYE::0x80	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	57;"	d	line:57
+_WORD	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	60;"	u	line:60
+_byte	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	46;"	m	line:46	union:_BYTE
+_byte	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	184;"	m	line:184	struct:_CTRL_TRF_DATA::<anonymous>
+_byte	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	64;"	m	line:64	struct:_CTRL_TRF_SETUP::<anonymous>
+_byte	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	72;"	m	line:72	union:_USB_DEVICE_STATUS
+_byte	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	82;"	m	line:82	union:_BD_STAT
+_byte0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	190;"	m	line:190	struct:_CTRL_TRF_DATA::<anonymous>
+_byte1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	191;"	m	line:191	struct:_CTRL_TRF_DATA::<anonymous>
+_byte2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	192;"	m	line:192	struct:_CTRL_TRF_DATA::<anonymous>
+_byte3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	193;"	m	line:193	struct:_CTRL_TRF_DATA::<anonymous>
+_byte4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	194;"	m	line:194	struct:_CTRL_TRF_DATA::<anonymous>
+_byte5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	195;"	m	line:195	struct:_CTRL_TRF_DATA::<anonymous>
+_byte6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	196;"	m	line:196	struct:_CTRL_TRF_DATA::<anonymous>
+_byte7	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	197;"	m	line:197	struct:_CTRL_TRF_DATA::<anonymous>
+_dword	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	88;"	m	line:88	union:_DWORD
+_word	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	133;"	m	line:133	union:_POINTER
+_word	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	62;"	m	line:62	union:_WORD
+_word0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	201;"	m	line:201	struct:_CTRL_TRF_DATA::<anonymous>
+_word1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	202;"	m	line:202	struct:_CTRL_TRF_DATA::<anonymous>
+_word2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	203;"	m	line:203	struct:_CTRL_TRF_DATA::<anonymous>
+_word3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	204;"	m	line:204	struct:_CTRL_TRF_DATA::<anonymous>
+active_protocol	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	47;"	v	line:47
+b0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	49;"	m	line:49	struct:_BYTE::<anonymous>
+b1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	50;"	m	line:50	struct:_BYTE::<anonymous>
+b2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	51;"	m	line:51	struct:_BYTE::<anonymous>
+b3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	52;"	m	line:52	struct:_BYTE::<anonymous>
+b4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	53;"	m	line:53	struct:_BYTE::<anonymous>
+b5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	54;"	m	line:54	struct:_BYTE::<anonymous>
+b6	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	55;"	m	line:55	struct:_BYTE::<anonymous>
+b7	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	56;"	m	line:56	struct:_BYTE::<anonymous>
+bAltID	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	133;"	m	line:133	struct:_CTRL_TRF_SETUP::<anonymous>
+bAltID_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	134;"	m	line:134	struct:_CTRL_TRF_SETUP::<anonymous>
+bAltSetting	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	147;"	m	line:147	struct:_USB_INTF_DSC
+bCfgRSD	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	123;"	m	line:123	struct:_CTRL_TRF_SETUP::<anonymous>
+bCfgValue	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	122;"	m	line:122	struct:_CTRL_TRF_SETUP::<anonymous>
+bCfgValue	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	137;"	m	line:137	struct:_USB_CFG_DSC
+bCountryCode	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	140;"	m	line:140	struct:_USB_HID_DSC
+bDevADR	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	111;"	m	line:111	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevADRH	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	112;"	m	line:112	struct:_CTRL_TRF_SETUP::<anonymous>
+bDevCls	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	125;"	m	line:125	struct:_USB_DEV_DSC
+bDevProtocol	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	125;"	m	line:125	struct:_USB_DEV_DSC
+bDevSubCls	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	125;"	m	line:125	struct:_USB_DEV_DSC
+bDscIndex	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	101;"	m	line:101	struct:_CTRL_TRF_SETUP::<anonymous>
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	133;"	m	line:133	struct:_USB_HID_DSC_HEADER
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	102;"	m	line:102	struct:_CTRL_TRF_SETUP::<anonymous>
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	124;"	m	line:124	struct:_USB_DEV_DSC
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	136;"	m	line:136	struct:_USB_CFG_DSC
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	146;"	m	line:146	struct:_USB_INTF_DSC
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	156;"	m	line:156	struct:_USB_EP_DSC
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	235;"	m	line:235	file:
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	238;"	m	line:238	file:
+bDscType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	243;"	m	line:243	file:
+bEPAdr	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	156;"	m	line:156	struct:_USB_EP_DSC
+bEPID	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	146;"	m	line:146	struct:_CTRL_TRF_SETUP::<anonymous>
+bEPID_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	147;"	m	line:147	struct:_CTRL_TRF_SETUP::<anonymous>
+bFeature	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	90;"	m	line:90	struct:_CTRL_TRF_SETUP::<anonymous>
+bHigh	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	130;"	m	line:130	struct:_POINTER::<anonymous>
+bInterval	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	157;"	m	line:157	struct:_USB_EP_DSC
+bIntfCls	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	147;"	m	line:147	struct:_USB_INTF_DSC
+bIntfID	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	135;"	m	line:135	struct:_CTRL_TRF_SETUP::<anonymous>
+bIntfID_H	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	136;"	m	line:136	struct:_CTRL_TRF_SETUP::<anonymous>
+bIntfNum	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	146;"	m	line:146	struct:_USB_INTF_DSC
+bIntfProtocol	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	148;"	m	line:148	struct:_USB_INTF_DSC
+bIntfSubCls	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	148;"	m	line:148	struct:_USB_INTF_DSC
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	124;"	m	line:124	struct:_USB_DEV_DSC
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	136;"	m	line:136	struct:_USB_CFG_DSC
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	146;"	m	line:146	struct:_USB_INTF_DSC
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	156;"	m	line:156	struct:_USB_EP_DSC
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	235;"	m	line:235	file:
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	238;"	m	line:238	file:
+bLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	243;"	m	line:243	file:
+bLow	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	129;"	m	line:129	struct:_POINTER::<anonymous>
+bMaxPktSize0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	126;"	m	line:126	struct:_USB_DEV_DSC
+bMaxPower	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	138;"	m	line:138	struct:_USB_CFG_DSC
+bNumCfg	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	128;"	m	line:128	struct:_USB_DEV_DSC
+bNumDsc	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	140;"	m	line:140	struct:_USB_HID_DSC
+bNumEPs	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	147;"	m	line:147	struct:_USB_INTF_DSC
+bNumIntf	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	137;"	m	line:137	struct:_USB_CFG_DSC
+bRam	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	137;"	m	line:137	union:_POINTER
+bRequest	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	71;"	m	line:71	struct:_CTRL_TRF_SETUP::<anonymous>
+bRom	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	142;"	m	line:142	union:_POINTER
+bTRNIFCount	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.c	52;"	v	line:52
+bcdDevice	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	127;"	m	line:127	struct:_USB_DEV_DSC
+bcdHID	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	139;"	m	line:139	struct:_USB_HID_DSC
+bcdUSB	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	124;"	m	line:124	struct:_USB_DEV_DSC
+bmAttributes	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	138;"	m	line:138	struct:_USB_CFG_DSC
+bmAttributes	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	157;"	m	line:157	struct:_USB_EP_DSC
+bmRequestType	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	70;"	m	line:70	struct:_CTRL_TRF_SETUP::<anonymous>
+byte	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	40;"	t	line:40
+byte0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	65;"	m	line:65	struct:_WORD::<anonymous>
+byte0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	91;"	m	line:91	struct:_DWORD::<anonymous>
+byte1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	66;"	m	line:66	struct:_WORD::<anonymous>
+byte1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	92;"	m	line:92	struct:_DWORD::<anonymous>
+byte2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	93;"	m	line:93	struct:_DWORD::<anonymous>
+byte3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	94;"	m	line:94	struct:_DWORD::<anonymous>
+byte_to_read	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	466;"	l	line:466
+byte_to_send	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	371;"	l	line:371
+cs_sdmmc::LATBbits.LATB3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	106;"	d	line:106
+cs_temp_sensor::LATBbits.LATB2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	103;"	d	line:103
+ctrl_trf_mem	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.h	76;"	m	line:76	struct:_USB_DEVICE_STATUS::<anonymous>
+ctrl_trf_session_owner	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	49;"	v	line:49
+ctrl_trf_state	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	48;"	v	line:48
+device_dsc	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	180;"	v	line:180
+dword	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	42;"	t	line:42
+ep0Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	179;"	v	line:179
+ep0Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	178;"	v	line:178
+ep10Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	229;"	v	line:229
+ep10Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	228;"	v	line:228
+ep11Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	234;"	v	line:234
+ep11Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	233;"	v	line:233
+ep12Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	239;"	v	line:239
+ep12Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	238;"	v	line:238
+ep13Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	244;"	v	line:244
+ep13Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	243;"	v	line:243
+ep14Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	249;"	v	line:249
+ep14Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	248;"	v	line:248
+ep15Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	254;"	v	line:254
+ep15Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	253;"	v	line:253
+ep1Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	184;"	v	line:184
+ep1Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	183;"	v	line:183
+ep2Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	189;"	v	line:189
+ep2Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	188;"	v	line:188
+ep3Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	194;"	v	line:194
+ep3Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	193;"	v	line:193
+ep4Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	199;"	v	line:199
+ep4Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	198;"	v	line:198
+ep5Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	204;"	v	line:204
+ep5Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	203;"	v	line:203
+ep6Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	209;"	v	line:209
+ep6Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	208;"	v	line:208
+ep7Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	214;"	v	line:214
+ep7Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	213;"	v	line:213
+ep8Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	219;"	v	line:219
+ep8Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	218;"	v	line:218
+ep9Bi	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	224;"	v	line:224
+ep9Bo	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	223;"	v	line:223
+hid_dsc_header	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	141;"	m	line:141	struct:_USB_HID_DSC
+hid_report_in	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	282;"	v	line:282
+hid_report_out	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	281;"	v	line:281
+hid_rpt01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	248;"	v	line:248
+hid_rpt_rx_len	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	48;"	v	line:48
+i	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	280;"	l	line:280
+i	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	497;"	l	line:497	file:
+i	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	572;"	l	line:572	file:
+i	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\BootPIC18NonJ.c	595;"	l	line:595	file:
+i	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	228;"	l	line:228
+i	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	191;"	l	line:191
+iCfg	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	137;"	m	line:137	struct:_USB_CFG_DSC
+iIntf	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	148;"	m	line:148	struct:_USB_INTF_DSC
+iMFR	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	127;"	m	line:127	struct:_USB_DEV_DSC
+iProduct	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	127;"	m	line:127	struct:_USB_DEV_DSC
+iSerialNum	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	128;"	m	line:128	struct:_USB_DEV_DSC
+idProduct	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	126;"	m	line:126	struct:_USB_DEV_DSC
+idVendor	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	126;"	m	line:126	struct:_USB_DEV_DSC
+idle_rate	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.c	46;"	v	line:46
+interrupt_at_high_vector	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	193;"	f	line:193	signature:(void)
+interrupt_at_low_vector	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	198;"	f	line:198	signature:(void)
+led_count	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	366;"	l	line:366	file:
+mDisableEP1to15::ClearArray((byte*)&UEP1,15);	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	161;"	d	line:161
+mDisableEP1to15::ClearArray((byte*)&UEP1,7);	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	159;"	d	line:159
+mHIDGetRptRxLength::hid_rpt_rx_len	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	128;"	d	line:128
+mHIDRxIsBusy::HID_BD_OUT.Stat.UOWN	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	90;"	d	line:90
+mHIDTxIsBusy::HID_BD_IN.Stat.UOWN	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	109;"	d	line:109
+mInitAllLEDs::LATC&=0b11111100;TRISC&=0b1111	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	79;"	d	line:79
+mInitAllSwitches::TRISEbits.TRISE3=1;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	94;"	d	line:94
+mInitPOT::TRISAbits.TRISA0=1;ADCON0=0x01	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	99;"	d	line:99
+mInitSwitch2::TRISEbits.TRISE3=1;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	95;"	d	line:95
+mInitializeUSBDriver::{UCFG=UCFG_VAL;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	139;"	d	line:139
+mLED_1::LATCbits.LATC0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	81;"	d	line:81
+mLED_1_Off::mLED_1=0;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	87;"	d	line:87
+mLED_1_On::mLED_1=1;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	84;"	d	line:84
+mLED_1_Toggle::mLED_1=!mLED_1;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	90;"	d	line:90
+mLED_2::LATCbits.LATC1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	82;"	d	line:82
+mLED_2_Off::mLED_2=0;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	88;"	d	line:88
+mLED_2_On::mLED_2=1;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	85;"	d	line:85
+mLED_2_Toggle::mLED_2=!mLED_2;	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	91;"	d	line:91
+mLED_Both_Off::{mLED_1_Off;mLED_2_Off;}	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	371;"	d	line:371	file:
+mLED_Both_On::{mLED_1_On;mLED_2_On;}	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	372;"	d	line:372	file:
+mLED_Only_1_On::{mLED_1_On;mLED_2_Off;}	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	373;"	d	line:373	file:
+mLED_Only_2_On::{mLED_1_Off;mLED_2_On;}	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	374;"	d	line:374	file:
+mUSBBufferReady::(buffer_dsc)	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdrv.h	199;"	d	line:199
+mUSBCheckAdrPendingState::if(usb_device_state==ADR_PENDI	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usb9.h	87;"	d	line:87
+mUSBGetHIDDscAdr::(ptr)	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	111;"	d	line:111
+mUSBGetHIDRptDscAdr::(ptr)	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	117;"	d	line:117
+mUSBGetHIDRptDscSize::(count)	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbcfg.h	123;"	d	line:123
+main	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\main.c	222;"	f	line:222	signature:(void)
+pDst	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	52;"	v	line:52
+pFunc	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	123;"	t	line:123
+pSrc	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	51;"	v	line:51
+report	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	248;"	m	line:248	file:
+report	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.h	67;"	m	line:67
+sd000	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	235;"	v	line:235
+sd001	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	238;"	v	line:238
+sd002	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	243;"	v	line:243
+self_power::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	65;"	d	line:65
+self_power::PORTAbits.RA2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	63;"	d	line:63
+setup_cnt	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	115;"	l	line:115
+short_pkt_status	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	69;"	v	line:69
+string	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	235;"	m	line:235	file:
+string	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	238;"	m	line:238	file:
+string	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdsc.c	243;"	m	line:243	file:
+sw2::PORTEbits.RE3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	96;"	d	line:96
+tris_cs_sdmmc::TRISBbits.TRISB3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	105;"	d	line:105
+tris_cs_temp_sensor::TRISBbits.TRISB2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	102;"	d	line:102
+tris_self_power::TRISAbits.TRISA2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	60;"	d	line:60
+tris_usb_bus_sense::TRISAbits.TRISA1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	52;"	d	line:52
+tris_usb_oe::TRISCbits.TRISC1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	74;"	d	line:74
+tris_usb_rcv::TRISAbits.TRISA4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	71;"	d	line:71
+tris_usb_suspnd::TRISAbits.TRISA3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	76;"	d	line:76
+tris_usb_vm::TRISCbits.TRISC4	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	73;"	d	line:73
+tris_usb_vmo::TRISBbits.TRISB2	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	70;"	d	line:70
+tris_usb_vp::TRISCbits.TRISC5	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	72;"	d	line:72
+tris_usb_vpo::TRISBbits.TRISB3	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	69;"	d	line:69
+usb_active_cfg	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	159;"	v	line:159
+usb_alt_intf	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	160;"	v	line:160
+usb_bus_sense::1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	57;"	d	line:57
+usb_bus_sense::PORTAbits.RA1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\io_cfg.h	55;"	d	line:55
+usb_device_state	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	157;"	v	line:157
+usb_stat	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbmmap.c	158;"	v	line:158
+v	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	115;"	m	line:115	struct:_DWORD::<anonymous>
+v	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	80;"	m	line:80	struct:_WORD::<anonymous>
+wCount	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbctrltrf.c	53;"	v	line:53
+wDscLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\hid.h	134;"	m	line:134	struct:_USB_HID_DSC_HEADER
+wIndex	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	73;"	m	line:73	struct:_CTRL_TRF_SETUP::<anonymous>
+wLangID	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	103;"	m	line:103	struct:_CTRL_TRF_SETUP::<anonymous>
+wLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	74;"	m	line:74	struct:_CTRL_TRF_SETUP::<anonymous>
+wMaxPktSize	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	157;"	m	line:157	struct:_USB_EP_DSC
+wRam	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	139;"	m	line:139	union:_POINTER
+wRom	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	143;"	m	line:143	union:_POINTER
+wTotalLength	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_std_dsc.h	136;"	m	line:136	struct:_USB_CFG_DSC
+wValue	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\usbdefs_ep0_buff.h	72;"	m	line:72	struct:_CTRL_TRF_SETUP::<anonymous>
+word	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	41;"	t	line:41
+word0	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	98;"	m	line:98	struct:_DWORD::<anonymous>
+word1	K:\PROJETS\USBPICBoard\usb-lab-bootloader\HID - Bootloader\HID Bootloader - labotronik - USBPICBOARD1_0\typedefs.h	99;"	m	line:99	struct:_DWORD::<anonymous>
