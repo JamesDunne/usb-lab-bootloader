@@ -1,0 +1,1 @@
+suitable for USB Pic Board hardware 1.0
